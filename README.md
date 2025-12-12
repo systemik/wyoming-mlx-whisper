@@ -34,7 +34,7 @@ Clone the repository and set up Python virtual environment:
 ```sh
 git clone https://github.com/vincent861223/wyoming-mlx-whisper.git
 cd wyoming-mlx-whisper
-script/setup
+/opt/homebrew/bin/python3.11 script/setup
 ```
 
 Run a server anyone can connect to:
